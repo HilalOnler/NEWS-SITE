@@ -21,6 +21,8 @@ html {
 }
 
 
+
+/* smaller */
 @media(max-width:600px) {
     html {
         font-size: 8px;
