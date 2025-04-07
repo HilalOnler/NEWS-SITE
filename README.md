@@ -23,7 +23,7 @@ git clone https://github.com/HilalOnler/NEWS-SITE.git
 
 # 2. Proje klasörüne gir
 cd NEWS-SITE
-
+'''
 
 
 ## 📬 İletişim
