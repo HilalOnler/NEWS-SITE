@@ -22,8 +22,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 git clone https://github.com/HilalOnler/NEWS-SITE.git
 
 # 2. Proje klasörüne gir
-cd NEWS-SITE
-'''
+cd NEWS-SITE```
 
 
 ## 📬 İletişim
